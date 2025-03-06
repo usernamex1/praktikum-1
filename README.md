@@ -7,10 +7,10 @@ Aplikasi ini merupakan implementasi kamera pada Flutter yang memungkinkan penggu
 ![Screenshot aplikasi kamera](assets/hasil.jpg)
 
 ## Screenshot running take picture (belum mengambil gambar)
-![Screenshot aplikasi kamera](assets/take picture.jpg)
+![Screenshot aplikasi kamera](assets/take-picture.jpg)
 
 ## Screenshot running display picture (sudah mengambil gambar)
-![Screenshot aplikasi kamera](assets/display picture.jpg)
+![Screenshot aplikasi kamera](assets/display-picture.jpg)
 
 ## Penjelasan
 Dalam aplikasi ini saya mengimplementasikan:
